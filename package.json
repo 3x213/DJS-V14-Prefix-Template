@@ -1,0 +1,25 @@
+{
+  "name": "djs-v14-prefix-template",
+  "version": "1.0.0",
+  "description": "Template d'un Bot Discord en Prefix Commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3x213/DJS-V14-Prefix-Template.git"
+  },
+  "author": "3x213",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/3x213/DJS-V14-Prefix-Template/issues"
+  },
+  "homepage": "https://github.com/3x213/DJS-V14-Prefix-Template#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "node-cmd": "^5.0.0",
+    "path": "^0.12.7"
+  }
+}
